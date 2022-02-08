@@ -1,0 +1,4 @@
+{
+  "Success": "sucesso!",
+  "Error": "erro: {{.Erro}}"
+}
